@@ -25,8 +25,5 @@ AETHER-1 bridges this gap by integrating:
 - Designed for LEO satellite communication constraints  
 
 ---
-Contributed by legend himself kavan bhai from thokkottu
--------
-banner revealer : abhiram
 
 
